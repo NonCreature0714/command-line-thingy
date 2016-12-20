@@ -1,0 +1,23 @@
+{
+  "name": "command-line-thingy",
+  "version": "0.0.1",
+  "description": "A little command line parser for mua.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "parser",
+    "cli",
+    "clu",
+    "tron"
+  ],
+  "author": "William W Brubaker",
+  "license": "MIT"
+}
